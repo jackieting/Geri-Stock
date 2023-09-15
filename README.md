@@ -1,4 +1,4 @@
-** This is not the actual finished project. The actual finished project is [here (https://github.com/alyssa-higdon/Geri-Stock)] **
+** This is not the actual finished project. The actual finished project is here: https://github.com/alyssa-higdon/Geri-Stock **
 # Geri-Stock
 
 ## Instructions
